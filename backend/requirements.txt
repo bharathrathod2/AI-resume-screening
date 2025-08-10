@@ -1,0 +1,10 @@
+flask
+flask-cors
+sentence-transformers
+transformers
+torch
+PyPDF2
+python-docx
+scikit-learn
+nltk
+spacy
